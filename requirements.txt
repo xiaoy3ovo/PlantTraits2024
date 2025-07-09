@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+catboost
+torch==1.13.1    
+transformers
+Pillow
+tqdm
+argparse
