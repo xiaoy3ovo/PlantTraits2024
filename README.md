@@ -6,7 +6,6 @@
 ## 🧩 项目结构
 - `notebook/main.ipynb`: 包含数据处理、特征提取与建模的完整 Notebook。
 - `scripts/train.py`: 从 Notebook 中导出的训练脚本。
-- `images/`: 存储可视化图像（如训练曲线等）。
 - `results/`: 存储最终预测结果或评估指标。
 
 ## 🛠️ 安装依赖
